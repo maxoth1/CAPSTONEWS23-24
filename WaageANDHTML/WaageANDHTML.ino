@@ -18,8 +18,8 @@ unsigned long t = 0;
 #include <WiFi.h>
 
 // WiFi-Einstellungen
-const char* ssid = "Ija";
-const char* password = "12345678";
+const char* ssid = "WLAN-NAME";
+const char* password = "WLAN-PASSWORT";
 
 
 // WiFiServer-Instanz:
